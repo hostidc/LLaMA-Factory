@@ -649,6 +649,10 @@ register_model_group(
         "LLaMA3-70B-Chinese-Chat": {
             DownloadSource.DEFAULT: "shenzhi-wang/Llama3-70B-Chinese-Chat",
         },
+        "LLaMA3-8b-Instruct-unsloth": {
+            DownloadSource.DEFAULT: "unsloth/llama-3-8b-Instruct",
+            DownloadSource.MODELSCOPE: "unsloth/llama-3-8b-Instruct",
+        },
     },
     template="llama3",
 )

@@ -2,6 +2,12 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "test": {
+    "file_name": "test.json"
+  },
+  "testkf": {
+    "file_name": "testkf.json"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
