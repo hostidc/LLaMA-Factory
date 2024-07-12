@@ -8,6 +8,9 @@
   "testkf": {
     "file_name": "testkf.json"
   },
+  "lee3251_new_data": {
+    "hf_hub_url": "lee3251/new_data"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
